@@ -1,9 +1,14 @@
 Name	DescZh	Desc	Types
 deepseek-r1	DeepSeek 的第一代推理模型，在数学、代码和推理任务方面实现了与 OpenAI-o1 相当的性能。	"DeepSeek’s first-generation reasoning models, achieving performance comparable to OpenAI-o1 across math, code, and reasoning tasks."	"1.5b,7b,8b,14b,32b,70b,671b"
+llama3.3	最先进的 70B 型号。与 Llama 3.3 70B 型号相比，Llama 3.1 405B 提供相似的性能。	New state of the art 70B model. Llama 3.3 70B offers similar performance compared to the Llama 3.1 405B model.	70b
+phi4	Phi-4 是 Microsoft 的 14B 参数、最先进的开放模型。	"Phi-4 is a 14B parameter, state-of-the-art open model from Microsoft."	14b
+llama3.2	Meta 的 Llama 3.2 通过 1B 和 3B 模型变小。	Meta's Llama 3.2 goes small with 1B and 3B models.	"1b,3b"
+llama3.1	Llama 3.1 是 Meta 推出的最先进的新型号，提供 8B、70B 和 405B 参数大小。	"Llama 3.1 is a new state-of-the-art model from Meta available in 8B, 70B and 405B parameter sizes."	"8b,70b,405b"
+llama3	Meta Llama 3：迄今为止功能最强大的公开可用 LLM	Meta Llama 3: The most capable openly available LLM to date	"8b,70b"
 qwen2.5-coder	最新系列的特定于代码的 Qwen 模型，在代码生成、代码推理和代码修复方面有重大改进。	"The latest series of Code-Specific Qwen models, with significant improvements in code generation, code reasoning, and code fixing."	"0.5b,1.5b,3b,14b,32b"
 qwen2	Qwen2 是阿里巴巴集团推出的一系列新的大型语言模型	Qwen2 is a new series of large language models from Alibaba group	"0.5b,1.5b,7b,72b"
 gemma	Gemma 是由 Google DeepMind 构建的一系列轻量级、最先进的开放模型。	"Gemma is a family of lightweight, state-of-the-art open models built by Google DeepMind."	"2b,7b,7b-instruct-fp16"
-llama2	Llama 2 是基础语言模型的集合，参数范围从 7B 到 70B。	Llama 2 is a collection of foundation language models ranging from 7B to 70B parameters.	
+llama2	Llama 2 是基础语言模型的集合，参数范围从 7B 到 70B。	Llama 2 is a collection of foundation language models ranging from 7B to 70B parameters.	"7b,13b,70b"
 mistral	Mistral AI 发布的 7B 模型，更新到 0.2 版本。	"The 7B model released by Mistral AI, updated to version 0.2."	
 mixtral	Mistral AI 的高质量专家混合 （MoE） 模型，带有开放权重。	A high-quality Mixture of Experts (MoE) model with open weights by Mistral AI.	
 llava	� LLaVA 是一种新颖的端到端训练大型多模态模型，它结合了视觉编码器和 Vicuna 以实现通用视觉和语言理解。已更新至版本 1.6。	� LLaVA is a novel end-to-end trained large multimodal model that combines a vision encoder and Vicuna for general-purpose visual and language understanding. Updated to version 1.6.	
